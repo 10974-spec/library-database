@@ -60,6 +60,7 @@
     </style>
 </head>
 <body>
+    <code>Hello</code>
     <h1><span class="emoji">📚</span> Library Management System API (African Edition)</h1>
     
     <p>A complete MySQL database + FastAPI CRUD system with African authors and Kenyan members.</p>
@@ -172,5 +173,8 @@ pip install fastapi uvicorn mysql-connector-python</code></pre>
     <p>Replace placeholder values (<code>[your-repo-url]</code>) with your actual details when using!</p>
     
     <p><em>(Note: For best viewing experience, this HTML includes GitHub-like styling)</em></p>
+
+    
 </body>
 </html>
+
